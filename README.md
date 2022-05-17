@@ -3,10 +3,9 @@
 👋 Hi, I’m HOANG THE LONG
 
 - This is Pet-management-Website 2, is a more complete version of Pet-management-Website 1.
-
 - This project using HTML,CSS,JAVASCRIPT
-
 - This project has the following features:
+
 - 1.Add pet
 - 2.validate information pet
 - 3.Show Healthy Pet
