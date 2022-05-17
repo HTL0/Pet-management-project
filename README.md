@@ -16,3 +16,5 @@
 - 8.Save and load pet information into localStore
 - 9.Searching
 - 10.Import and Export Json file.
+
+-You can use Pets.json file, import file in data page and test.
