@@ -17,4 +17,4 @@
 - 9.Searching
 - 10.Import and Export Json file.
 
--You can use Pets.json file, import file in data page and test.
+- You can use Pets.json file, import file in data page and test.
