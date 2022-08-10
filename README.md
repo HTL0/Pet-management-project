@@ -5,7 +5,7 @@
 - This is Pet-management-Website 2, is a more complete version of Pet-management-Website 1.
 - This project using HTML,CSS,JAVASCRIPT
 - This project has the following features:
-### You can use Pets.json file, import file in data page and test.
+### You can use file Pets.json, import file in data page and test.
 
 ## Implementation details
 ### 1.validate information pet
