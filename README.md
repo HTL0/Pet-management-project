@@ -1,10 +1,10 @@
 # Pet-magerment-project
 
-👋 Hi, I’m LONG
+### 👋 Hi, I’m LONG
 
-- This is Pet-management-Website 2, is a more complete version of Pet-management-Website 1.
-- This project using HTML,CSS,JAVASCRIPT
-- This project has the following features:
+### - This is Pet-management-Website 2, is a more complete version of Pet-management-Website 1.
+### - This project using HTML,CSS,JAVASCRIPT
+### - This project has the following features:
 
 - 1.Add pet
 - 2.validate information pet
@@ -16,5 +16,6 @@
 - 8.Save and load pet information into localStore
 - 9.Searching
 - 10.Import and Export Json file.
+### - You can use Pets.json file, import file in data page and test.
 
-- You can use Pets.json file, import file in data page and test.
+
