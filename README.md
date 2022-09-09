@@ -1,4 +1,4 @@
-# Pet-magerment-project
+# Pet-management-project
 
 ### 👋 Hi, I’m LONG
 
